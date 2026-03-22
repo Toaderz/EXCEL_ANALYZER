@@ -1,0 +1,23 @@
+Metadata-Version: 2.4
+Name: excel-analyzer
+Version: 0.1.0
+Summary: Detect and analyze tables in messy Excel files
+Author: Tu Nombre
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: openpyxl
+Dynamic: license-file
+
+# Excel Analyzer
+
+Library for detecting and extracting tables from messy Excel files.
+
+Features:
+
+- Detect tables automatically
+- Handle merged cells
+- Query metrics from Excel
+- Build analytical tables

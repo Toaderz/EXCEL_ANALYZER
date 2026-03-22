@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+excel_analyzer/__init__.py
+excel_analyzer/core.py
+excel_analyzer/query_engine.py
+excel_analyzer/table_builder.py
+excel_analyzer.egg-info/PKG-INFO
+excel_analyzer.egg-info/SOURCES.txt
+excel_analyzer.egg-info/dependency_links.txt
+excel_analyzer.egg-info/requires.txt
+excel_analyzer.egg-info/top_level.txt
